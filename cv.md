@@ -48,12 +48,12 @@ My main goal is to change professional activities. At the moment, I work as a sy
 ```
 
 ## Experience
-| project | demo   | code   |
-| :---    | :----: | :----: |
-| RSLang  | [demo](https://rslang-eremor.netlify.app/) | [code](https://github.com/Eremor/rslang) |
-| Match Match game | [demo](https://eremor-match-match-game.netlify.app/) | [code](https://github.com/Eremor/match-match-game) |
-| Online ZOO | [demo](https://eremor.github.io/online-zoo/) | [code](https://github.com/Eremor/online-zoo) |
-| Movie app | [demo](https://eremor.github.io/RSS-JSFE2022-preschool/movie-app/) | [code](https://github.com/Eremor/RSS-JSFE2022-preschool/tree/movie-app) |
+project | demo   | code
+:---    | :----: | :----:
+RSLang  | [demo](https://rslang-eremor.netlify.app/) | [code](https://github.com/Eremor/rslang)
+Match Match game | [demo](https://eremor-match-match-game.netlify.app/) | [code](https://github.com/Eremor/match-match-game)
+Online ZOO | [demo](https://eremor.github.io/online-zoo/) | [code](https://github.com/Eremor/online-zoo)
+Movie app | [demo](https://eremor.github.io/RSS-JSFE2022-preschool/movie-app/) | [code](https://github.com/Eremor/RSS-JSFE2022-preschool/tree/movie-app)
 
 ## Education
 * __FreeCodeCamp:__ [Responsive Web Design](https://www.freecodecamp.org/certification/eremor/responsive-web-design)
