@@ -24,7 +24,7 @@ My main goal is to change professional activities. At the moment, I work as a sy
 * a little Angular and Node.js
 
 ## Code examples
-```TypeScript
+```JavaScript
   export class GameField extends BaseComponent {
     private cards: Card[] = [];
 
@@ -39,7 +39,7 @@ My main goal is to change professional activities. At the moment, I work as a sy
     public addCards(cards: Card[]): void {
       this.cards = cards;
       this.cards.forEach((card): void => this.addChildren([card.node]));
-      
+
       setTimeout(() => {
         this.cards.forEach((card) => card.flipToBack());
       }, SHOW_TIME * 1000);
