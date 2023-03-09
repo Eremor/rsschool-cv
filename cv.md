@@ -54,3 +54,14 @@ My main goal is to change professional activities. At the moment, I work as a sy
 | Match Match game | [demo](https://eremor-match-match-game.netlify.app/) | [code](https://github.com/Eremor/match-match-game) |
 | Online ZOO | [demo](https://eremor.github.io/online-zoo/) | [code](https://github.com/Eremor/online-zoo) |
 | Movie app | [demo](https://eremor.github.io/RSS-JSFE2022-preschool/movie-app/) | [code](https://github.com/Eremor/RSS-JSFE2022-preschool/tree/movie-app) |
+
+## Education
+* __FreeCodeCamp:__ [Responsive Web Design](https://www.freecodecamp.org/certification/eremor/responsive-web-design)
+* __FreeCodeCamp:__ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/eremor/javascript-algorithms-and-data-structures)
+* __RSSchool:__ [React](https://app.rs.school/certificate/gg9hwt7m)
+* __RSSchool:__ [Front-End 2022Q1](https://app.rs.school/certificate/24pctvfj)
+
+## Languages:
+* __Russian:__ Native
+* __English:__ Intermediate (B1)
+[EFset Score](images/english-lvl.jpg)
