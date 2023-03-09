@@ -17,7 +17,32 @@ My main goal is to change professional activities. At the moment, I work as a sy
 * HTML5, CCS3
 * JavaScript, TypeScript
 * React, Redux
+* Component library: Material UI, Ant Design
 * Preprocessor: SCSS
 * Module bundler: Webpack
 * Figma
 * a little Angular and Node.js
+
+## Code examples
+```TypeScript
+  export class GameField extends BaseComponent {
+    private cards: Card[] = [];
+
+    constructor() {
+      super('div', ['game__field']);
+    }
+
+    public clear(): void {
+      this.cards = [];
+    }
+
+    public addCards(cards: Card[]): void {
+      this.cards = cards;
+      this.cards.forEach((card): void => this.addChildren([card.node]));
+      
+      setTimeout(() => {
+        this.cards.forEach((card) => card.flipToBack());
+      }, SHOW_TIME * 1000);
+    }
+  }
+```
