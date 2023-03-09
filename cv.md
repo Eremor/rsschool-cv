@@ -63,6 +63,5 @@ My main goal is to change professional activities. At the moment, I work as a sy
 
 ## Languages:
 * __Russian:__ Native
-* __English:__ Intermediate (B1)
-<br>
+* __English:__ Intermediate (B1)<br>
 ![EFset Score](images/english-lvl.jpg)
